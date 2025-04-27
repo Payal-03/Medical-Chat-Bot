@@ -64,7 +64,7 @@ The Medical Assistant Chatbot addresses the need for quick and accessible medica
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Paste YouTube or Loom link here]  
+- **Demo Video Link:** [https://youtu.be/whkhKHjPVSc]  
 - **Pitch Deck / PPT Link:** [https://docs.google.com/presentation/d/e/2PACX-1vRddEFr5JNXSzOEJr5fkRJpbuzknCD4PwjFTfu5c0XKRP2tZkorPlxEhmPB3qc7YiJNG2ruPViXSsxo/pub?start=true&loop=true&delayms=5000]  
 
 ---
